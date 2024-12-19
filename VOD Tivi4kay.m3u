@@ -1,16 +1,3 @@
-<!DOCTYPE>
-	
-<html>
-<head>
-<link rel="icon" type="image/png" href="https://www.astro.com.my">
-<script  type="text/javascript">
-window.location = "https://www.astro.com.my"
-</script>
-</head>
-</html>
-
-<noscript>
-
 #EXTM3U
 
 =VOD LATEST=
@@ -15632,4 +15619,3 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTINF:-1 type="movie" group-title="AstroGO" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAPHB_IVP_LAND_171x96_7C619_2024829_23119.jpg",Zombieland: Double Tap
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/cd6ecaf3-7621-511b-81d7-3508a5874423/default_primary.mpd
 
-</noscript>
