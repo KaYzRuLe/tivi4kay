@@ -57,9 +57,6 @@ https://l16.dp.sooka.my/1004/linear/index.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2Mzk5ODQsImlzcyI6IlZSIiwiZXhwIjoxNzQwNjk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.1VI66oxNJ5kAMbe9oD6W7AYrC2PAub68xZnl6ZRaOio"}
 https://l18.dp.sooka.my/1000/linear/index.mpd
 
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Citra
-http://iptv12k.com:35461/live/654321/123456/721.ts
-
 #EXTINF:-1 tvg-id="106.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e}
