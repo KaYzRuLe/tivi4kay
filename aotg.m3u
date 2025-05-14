@@ -357,35 +357,31 @@ https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://aqfadtv.xyz/logos/NET.png" group-title="Indonesia",08. Net TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
-https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://aqfadtv.xyz/logos/RCTI.png" group-title="Indonesia",09. RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://aqfadtv.xyz/logos/RCTI.png" group-title="Indonesia",08. RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-id="RTV" tvg-logo="https://aqfadtv.xyz/logos/RTV.png" group-title="Indonesia",10. rtv
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://aqfadtv.xyz/logos/RTV.png" group-title="Indonesia",09. rtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://aqfadtv.xyz/logos/SCTV.png" group-title="Indonesia",11. SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://aqfadtv.xyz/logos/SCTV.png" group-title="Indonesia",10. SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd|referrer=https://www.indihometv.com
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://aqfadtv.xyz/logos/Trans7.png" group-title="Indonesia",12. Trans7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://aqfadtv.xyz/logos/Trans7.png" group-title="Indonesia",11. Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://aqfadtv.xyz/logos/TransTV.png" group-title="Indonesia",13. TransTV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://aqfadtv.xyz/logos/TransTV.png" group-title="Indonesia",12. TransTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="Indonesia",14. TVRI
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png" group-title="Indonesia",13. TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="Indonesia",15. Vision Prime
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/641/641-LOGO-m.png" group-title="Indonesia",14. Vision Prime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
 
