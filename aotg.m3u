@@ -327,6 +327,94 @@ https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.co
 
 
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://aqfadtv.xyz/logos/antv.png" group-title="Indonesia",01. antv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/ANTV/sa_dash/ANTV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://aqfadtv.xyz/logos/DAAITV.png" group-title="Indonesia",02. DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/DAAITV/sa_dash/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="Indonesia",03. Dunia Lain
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://aqfadtv.xyz/logos/GTV.png" group-title="Indonesia",04. GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://aqfadtv.xyz/logos/Indosiar.png" group-title="Indonesia",05. Indosiar
+https://cdnjkt913.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://aqfadtv.xyz/logos/MNCTV.png" group-title="Indonesia",06. MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://aqfadtv.xyz/logos/NET.png" group-title="Indonesia",07. Net TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://aqfadtv.xyz/logos/RCTI.png" group-title="Indonesia",08. RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="RTV" tvg-logo="https://aqfadtv.xyz/logos/RTV.png" group-title="Indonesia",09. rtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://aqfadtv.xyz/logos/SCTV.png" group-title="Indonesia",10. SCTV
+https://cdnjkt913.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://aqfadtv.xyz/logos/Trans7.png" group-title="Indonesia",11. Trans7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://aqfadtv.xyz/logos/TransTV.png" group-title="Indonesia",12. TransTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://cdnjkt4.transvision.co.id:1001/live/https://legacy-global-cdn.visionplus.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+#EXTINF:-1 tvg-id="CH 5" tvg-logo="https://aqfadtv.xyz/logos/Channel5.png" group-title="Singapore",01. Channel 5
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
+#EXTINF:-1 tvg-id="CH 8" tvg-logo="https://aqfadtv.xyz/logos/Channel8.png" group-title="Singapore",02. Channel 8
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+#EXTINF:-1 tvg-id="CH U" tvg-logo="https://aqfadtv.xyz/logos/ChannelU.png" group-title="Singapore",03. Channel U
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://aqfadtv.xyz/logos/Suria.png" group-title="Singapore",04. Suria
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://aqfadtv.xyz/logos/Vasantham.png" group-title="Singapore",05. Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
@@ -520,10 +608,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 https://legacy-global-cdn.visionplus.id/live/eds/Cinemachi-Xtra-HD/sa_dash/Cinemachi-Xtra-HD.mpd
 
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="https://aqfadtv.xyz/logos/ZeeBioskop.png" group-title="Movies",34. Zee Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
+https://legacy-global-cdn.visionplus.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-#EXTINF:-1 tvg-id="251.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Movies",34. Zee Cinema
+#EXTINF:-1 tvg-id="251.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Movies",35. Zee Cinema
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 
