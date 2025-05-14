@@ -63,9 +63,6 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live29.mpd
 #EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="FreeView",13. Salam HD
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="FreeView",14. SUKE TV
-https://mana2.worst.workers.dev/SukeTv/index.m3u8
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
