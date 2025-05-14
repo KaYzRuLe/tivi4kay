@@ -3,70 +3,70 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-title="FreeView",01. Scream
+#EXTINF:-1 tvg-id="100.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png" group-title="FreeView",100. Scream
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-#EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="FreeView",02. TV1
+#EXTINF:-1 tvg-id="101.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="FreeView",01. TV1
 http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
-#EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="FreeView",03. TV2
+#EXTINF:-1 tvg-id="102.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="FreeView",02. TV2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FreeView",04. TV3
+#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FreeView",03. TV3
 https://live-ssar-01.tonton.com.my/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36&referrer=https://watch.tonton.com.my/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FreeView",05. TV3 (SD)
+#EXTINF:-1 tvg-id="103.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-title="FreeView",04. TV3 (SD)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="FreeView",06. TV6
+#EXTINF:-1 tvg-id="TV6" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="FreeView",05. TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="148.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="FreeView",07. 8TV
+#EXTINF:-1 tvg-id="148.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-title="FreeView",06. 8TV
 https://live-ssar-01.tonton.com.my/stream-8tv/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36&referrer=https://watch.tonton.com.my/
 
-#EXTINF:-1 tvg-id="149.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png" group-title="FreeView",08. TV9
+#EXTINF:-1 tvg-id="149.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_NEW.png" group-title="FreeView",07. TV9
 https://live-ssar-01.tonton.com.my/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36&referrer=https://watch.tonton.com.my/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="FreeView",09. TV AlHijrah
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="FreeView",08. TV AlHijrah
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#EXTINF:-1 tvg-id="146.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-title="FreeView",10. TV Okey
+#EXTINF:-1 tvg-id="146.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-title="FreeView",09. TV Okey
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-#EXTINF:-1 tvg-id="122.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png" group-title="FreeView",11. TVS
+#EXTINF:-1 tvg-id="122.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVS.png" group-title="FreeView",10. TVS
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="FreeView",12. Didik TV
+#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" group-title="FreeView",11. Didik TV
 https://live-ssar-01.tonton.com.my/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311|user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36&referrer=https://watch.tonton.com.my/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
-#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="FreeView",13. Inspirasi
+#EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png" group-title="FreeView",12. Inspirasi
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live29.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
-#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="FreeView",14. Salam HD
+#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://playtv.unifi.com.my:7219/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="FreeView",13. Salam HD
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live32.mpd
 
 
@@ -246,7 +246,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Tivi4kay Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.38 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-#EXTINF:-1 tvg-id="325.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Chinese",08. Phoenix Channel
+#EXTINF:-1 tvg-id="325.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Chinese",08. Phoenix
 http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -293,13 +293,13 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTMklik",04. RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTMklik",RTM Lead
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTMklik",05. RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTMklik",05. RTM Roll
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTMklik",06. RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTMklik",06. RTM Snap
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTMklik",07. RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=1
 
 
@@ -973,13 +973,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://driftpointmedia.com/wp-content/uploads/logo-Clients-REDBull.png" group-title="Sports",19. Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",20. Sony SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",20. Sony SP 1
 https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",21. Sony SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",21. Sony SP 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",22. Sony SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",22. Sony S 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
